@@ -9,6 +9,6 @@ I'm a Software Engineer passionate about web accessibility, performance, user ex
 - 😊 Pronouns: He/him
 - 💡 Learning: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 Tech Stack: I’m currently learning JavaScript, Reactjs, and Node.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 Portfolio: You can [view my portfolio](https://kprono.pro/)
 
