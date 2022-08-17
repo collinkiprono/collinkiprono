@@ -12,7 +12,3 @@ I'm a Software Engineer passionate about web accessibility, performance, user ex
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 Portfolio: You can [view my portfolio](https://kprono.pro/)
 
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=collinkiprono&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinkiprono&langs_count=8&layout=compact&hide_border=true" alt="Collins Kiprono GitHub stats" /> |
-| ------------- | ------------- |
